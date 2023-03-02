@@ -1,4 +1,4 @@
-# 🗃 Sobre Mim:
+# 🗃 About me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rianmarques2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-marques/) 
 
   Hey! My name is Rian Mateus and I'm a full stack developer, with no professional experience yet. I have always been interested in technology and decided to specialize in front and back end development. Since then, I've dedicated my free time to learning and improving myself in the different technologies involved in web application development.
