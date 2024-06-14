@@ -1,4 +1,4 @@
-# 🗃 About me:
+# 🗃 Sobre mim:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rianmarques2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-marques/) 
 
 Olá, eu sou Rian, apaixonado por café e novas conexões; com 22 anos, tenho um desejo insaciável por aprender coisas novas e trazer impactos positivos em tudo o que faço, aproveitando meu bom raciocínio e memória.
